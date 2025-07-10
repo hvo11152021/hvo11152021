@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Hy Vo</h1>
-<h3 align="center">An aspiring software developer from Vietnam</h3>
+<h1 align="center">Hello :> I'm Hy Vo</h1>
+<h3 align="left">Full-Stack Developer | C#, ASP.NET, .NET Core, JavaScript, Java, Node.js, SQL | Built dynamic web applications with secure APIs | Python, Power BI | Data analytics & visualization</h3>
 
-- 🌱 I’m currently learning **Java & Discrete Mathematics**
+- 🌱 Currently a Computer Science major at MIU, USA
 
-- 👨‍💻 All of my projects are available at [hyportfolio.com](hyportfolio.com)
+- 👨‍💻 Concentrating on **Web Application Development and Algorithms**
 
-- 💬 Ask me about **Java, C# and HTML/CSS**
+- 💬 Ask me about **C# .NET and Java**
 
-- 📫 How to reach me **vogiahyvn@outlook.com**
+- 📫 Work email **vogiahyvn@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hy-vo-8a0843227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hy-vo-8a0843227/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100009867310233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009867310233" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/hy-vo-8a0843227/](https://www.linkedin.com/in/hy-vo-8a0843227/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hy-vo-8a0843227/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,8 +37,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hvo11152021&show_icons=true&locale=en&layout=compact" alt="hvo11152021" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvo11152021&show_icons=true&locale=en" alt="hvo11152021" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hvo11152021&" alt="hvo11152021" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hvo11152021&limit=5&theme=flat&combine_all_yearly_contributions=true)
