@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C#, JS and Python**
 
-- 📫 Work email **victorgiavo@outlook.com**
+- 📫 Work email **danvogia@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
