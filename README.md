@@ -1,4 +1,4 @@
-<h1 align="center">== Hello I'm Dan Vo ==</h1>
+<h1 align="center">== Hello I'm Hy (Dan) Vo ==</h1>
 <h3 align="left">Software Developer | Data Engineer | C#, Java | .NET Core, Angular, React, Spring | Python | SQL | ETL | Power BI | Tableau</h3>
 
 - 🌱 A CS major in USA
